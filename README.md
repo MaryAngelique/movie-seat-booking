@@ -20,7 +20,7 @@ Users should be able to:
 
 #### - User can pick their desired seats but cannot choose or pick the occupied seats
 
-#### - 
+#### - The selected seats and the movie price updates
 
 
 ### Links
