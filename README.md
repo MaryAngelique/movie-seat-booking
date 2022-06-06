@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Movie Seat Booking GitHub Solution](https://github.com/MaryAngelique/movie-seat-booking)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Movie Seat Booking](https://movie-seat-booking-beta-seven.vercel.app/)
 
 ## My process
 
