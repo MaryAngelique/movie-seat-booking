@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Movie Seat Booking GitHub Solution](https://github.com/MaryAngelique/movie-seat-booking)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
@@ -34,8 +34,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - VanillaJS
-- Asynchronous JavaScript
-- API Request
+- JS Localstorage
 - CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
